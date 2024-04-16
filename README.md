@@ -1,0 +1,2 @@
+# SAMPY
+An python implementation of the SIGNIFICANCE ANALYISIS OF MICROARRAYS
