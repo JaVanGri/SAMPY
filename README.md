@@ -1,4 +1,4 @@
-<img src="Logo_SAMPY.png" alt="Beschreibung" style="width: 50%;text-align:center">
+<img src="Logo_SAMPY.png" alt="Beschreibung" style="width: 100%;text-align:center">
 
 ## What is SAMPY?
 **OutCyte-UPS 2.0** is an innovative tool for predicting unconventional protein secretion based on the amino acid sequence of a protein.
@@ -15,7 +15,7 @@ To use OutCyte-UPS 2.0, follow these steps:
 
 2. **Activate the Conda environment**:
    ```
-     conda activate oc2
+     conda activate sampy_env
    ```
 3. **Run the application**:
 - Execute the application with the command:
