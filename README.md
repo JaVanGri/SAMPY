@@ -6,7 +6,7 @@ SAMPY is a Python tool based on the Significance Analysis of Microarrays (SAM) m
 
 
 ## How to use it?
-To use OutCyte-UPS 2.0, follow these steps:
+To use SAMPI, follow these steps:
 
 1. **Install the dependencies**:
    - Ensure you have Conda installed on your system.
