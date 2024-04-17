@@ -1,4 +1,4 @@
-<img src="Logo.png" alt="Beschreibung" style="width: 100%;">
+<img src="Logo_SAMPY.png" alt="Beschreibung" style="width: 100%;">
 
 ## What is SAMPY?
 **OutCyte-UPS 2.0** is an innovative tool for predicting unconventional protein secretion based on the amino acid sequence of a protein.
